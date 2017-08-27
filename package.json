@@ -4,8 +4,10 @@
   "author": "Vlad Trifa <vladounet@gmail.com>",
   "repository": "https://github.com/webofthings/wot-book.git",
   "dependencies": {
+    "mmm-usonic": "^2.5.3",
     "onoff": "^1.0.3",
     "pi-gpio": "0.x.x",
+    "r-pi-usonic": "^2.5.0",
     "rc522-rfid-promise": "^15.0.3"
   },
   "engine": "node >= 0.12.0"
